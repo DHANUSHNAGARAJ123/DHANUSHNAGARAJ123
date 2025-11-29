@@ -47,11 +47,4 @@
 
 ---
 
-## 🔥 Fun Badges  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
-
----
-
 <h3 align="center">⭐ Always curious. Always learning. ⭐</h3>
