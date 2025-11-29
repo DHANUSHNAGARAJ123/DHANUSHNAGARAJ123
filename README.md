@@ -1,5 +1,4 @@
-<!-- BANNER -->
-<img src="https://raw.githubusercontent.com/TechniverseCloud/Assets/main/Banners/banner-tech-dark.png" width="100%" />
+
 
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00c3ff">Dhanush</span></h1>
@@ -40,13 +39,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=DHANUSHNAGARAJ123&show_icons=true&theme=radical" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=DHANUSHNAGARAJ123&show_icons=true&theme=tokyonight&cache_seconds=1" height="170" />
-
-
 ---
 
 ## ⚡ Activity Graph  
