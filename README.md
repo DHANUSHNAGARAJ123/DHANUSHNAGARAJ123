@@ -7,20 +7,17 @@
   <img src="https://img.shields.io/github/followers/DHANUSHNAGARAJ123?style=for-the-badge" />
 </p>
 
-<!-- ONLY ONE BUTTON -->
+<!-- BUTTON THAT OPENS INTRO -->
 <p align="center">
-  <a href="#intro-section">
+  <a href="javascript:void(0)" onclick="document.getElementById('intro-box').style.display='block'; this.style.display='none';">
     <img src="https://img.shields.io/badge/Click%20My%20Intro-%23007FFF?style=for-the-badge" />
   </a>
 </p>
 
----
+<!-- INTRO HIDDEN -->
+<div id="intro-box" style="display:none;">
 
-<!-- HIDDEN INTRO (NO TITLE, NO EXTRA SUMMARY) -->
-<details id="intro-section">
-<summary></summary>
-
-### ✨ Hey! I'm **Dhanush**  
+### ✨ Hey! I'm **Dhanush**
 A passionate learner diving into **Machine Learning, Python, Data Science & Computer Vision**.  
 I enjoy building **ML models, intelligent tools, automations**, and learning new tech every day.
 
@@ -39,7 +36,7 @@ I enjoy building **ML models, intelligent tools, automations**, and learning new
 - Become a strong **AI/ML Engineer**  
 - Build real-world ML-powered applications  
 
-</details>
+</div>
 
 ---
 
