@@ -8,39 +8,34 @@
 </p>
 
 <p align="center">
-  <a href="#intro-section">
+  <a href="#intro">
     <img src="https://img.shields.io/badge/Click%20My%20Intro-%23007FFF?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-<a id="intro-section"></a>
+<a id="intro"></a>
 
-<details>
-  <summary><h2>🎬 My Intro (Click to Expand)</h2></summary>
-
-  
-### ✨ Hey! I'm **Dhanush**  
-A passionate learner diving deep into the world of **Machine Learning, AI, Python & Computer Vision**.  
-I love building **ML models, intelligent tools, automations**, and exploring tech every day.
+## 🎬 My Intro  
+✨ Hey! I'm **Dhanush** —  
+A passionate learner diving into **Machine Learning, Python, Data Science & Computer Vision**.  
+I love building **ML models, intelligent tools, automations**, and learning new tech daily.
 
 ---
 
 ### 🔥 What I Do
 - 📌 Machine Learning Projects  
-- 📌 Python & Automation  
+- 📌 Python Applications  
 - 📌 Computer Vision  
-- 📌 Data Preprocessing & Model Building  
-- 📌 Small Useful Tools  
+- 📌 Data Preprocessing  
+- 📌 Useful Mini Tools  
 
 ---
 
 ### 🎯 My Goals
-- Become a skilled **AI/ML Engineer**  
-- Build powerful, real-world ML applications  
-
-</details>
+- Become a strong **AI/ML Engineer**  
+- Create real-world ML-powered applications  
 
 ---
 
