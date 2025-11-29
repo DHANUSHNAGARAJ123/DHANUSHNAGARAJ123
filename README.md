@@ -1,5 +1,6 @@
 <!-- BANNER -->
-<img src="https://i.imgur.com/URsYj3k.png" width="100%" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/images/folder-open.svg" width="100%" />
+
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00c3ff">Dhanush</span></h1>
 <h3 align="center">AI & Data Science Student | ML Enthusiast 🚀</h3>
@@ -41,19 +42,16 @@
 ---
 
 ## 📊 GitHub Stats  
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DHANUSHNAGARAJ123&show_icons=true&theme=radical" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHANUSHNAGARAJ123&theme=radical" height="170" />
 
-</div>
 
 ---
 
 ## ⚡ Activity Graph  
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANUSHNAGARAJ123&theme=react-dark" />
+
 
 ---
 
