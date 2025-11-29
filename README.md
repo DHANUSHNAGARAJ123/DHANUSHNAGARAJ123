@@ -7,12 +7,6 @@
   <img src="https://img.shields.io/github/followers/DHANUSHNAGARAJ123?style=for-the-badge" />
 </p>
 
-<!-- BUTTON THAT OPENS INTRO -->
-<p align="center">
-  <a href="javascript:void(0)" onclick="document.getElementById('intro-box').style.display='block'; this.style.display='none';">
-    <img src="https://img.shields.io/badge/Click%20My%20Intro-%23007FFF?style=for-the-badge" />
-  </a>
-</p>
 
 <!-- INTRO HIDDEN -->
 <div id="intro-box" style="display:none;">
@@ -65,15 +59,17 @@ I enjoy building **ML models, intelligent tools, automations**, and learning new
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DHANUSHNAGARAJ123&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHNAGARAJ123&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🟩 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANUSHNAGARAJ123&theme=tokyo-night" />
+</p>
+
+## 🚀 Quick Access
+<p>
+  <a href="mailto:dhanushnagaraj123@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/your-link-here">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
+  </a>
 </p>
