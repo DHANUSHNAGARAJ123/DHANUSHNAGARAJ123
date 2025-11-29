@@ -1,5 +1,5 @@
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/images/folder-open.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Anish-M-code/Banner-Images/main/tech_banner_blue.png" width="100%" />
 
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00c3ff">Dhanush</span></h1>
@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=DHANUSHNAGARAJ123&show_icons=true&theme=radical" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHANUSHNAGARAJ123&theme=radical" height="170" />
+<img src="https://streak-stats.demolab.com/?user=DHANUSHNAGARAJ123&theme=tokyonight" height="170" />
 
 
 ---
