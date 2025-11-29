@@ -8,19 +8,18 @@
 </p>
 
 <p align="center">
-  <a href="#intro-box">
+  <a href="#intro">
     <img src="https://img.shields.io/badge/Click%20My%20Intro-%23007FFF?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-<a id="intro-box"></a>
+<a id="intro"></a>
 
 <details>
 <summary><h2>🎬 My Intro (Click to Expand)</h2></summary>
 
-  
 ### ✨ Hey! I'm **Dhanush**  
 A passionate learner diving into **Machine Learning, Python, Data Science & Computer Vision**.  
 I enjoy building **ML models, intelligent tools, automations**, and learning new tech every day.
