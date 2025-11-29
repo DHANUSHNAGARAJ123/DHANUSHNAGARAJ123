@@ -3,58 +3,61 @@
   <img src="https://i.imgur.com/0y8FtyS.png" alt="banner" width="100%" />
 </p>
 
-<!-- MAIN TITLE ANIMATION -->
+<!-- MAIN TITLE -->
 <h1 align="center">Hi, I'm Dhanush 👋</h1>
 
+<!-- SUBTITLE -->
+<h3 align="center">Machine Learning Enthusiast • Python Developer • Always Learning 🚀</h3>
+
+<!-- TYPING ANIMATION -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=28&color=00BFFF&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;AI+Explorer;Python+Developer;Always+Growing+and+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Explorer;Machine+Learning+Engineer+In+Progress;Focused+%26+Dedicated" />
 </h2>
 
 ---
 
-<!-- INTRO + VIEWS + FOLLOWERS (SIDE BY SIDE CENTERED) -->
+<!-- INTRO + STATS -->
 <p align="center">
 
-  <!-- CLICK INTRO -->
+  <!-- CLICKABLE INTRO -->
   <details>
   <summary><b>✨ Click here to know about me</b></summary>
   <br>
 
   👋 **I'm Dhanush**, passionate about  
-  **Machine Learning, Deep Learning, Python and AI tools.**
+  **Machine Learning, AI, Python, Deep Learning & Tools.**
 
-  🔥 **I enjoy:**  
-  • Building ML models  
-  • Exploring AI  
-  • Learning new tech fast  
-  • Creating real-world automation  
+  🔥 **What I Love Doing:**  
+  • Machine Learning Models  
+  • Real-world automation  
+  • Learning fast  
+  • Exploring AI tools  
 
-  🎯 **Learning now:** NumPy · Pandas · TensorFlow · OpenCV  
+  🎯 **Learning Now:** NumPy · Pandas · TensorFlow · OpenCV  
 
-  🚀 **Goal:** Become a professional **ML Engineer**
+  🚀 **Goal:** Become a top-tier **ML Engineer**
 
   </details>
 
   <br>
 
   <!-- PROFILE VIEWS -->
-  <img src="https://komarev.com/ghpvc/?username=DHANUSHNAGARAJ123&label=Profile%20Views&color=blue&style=flat" />
-
-  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=DHANUSHNAGARAJ123&label=Profile%20Views&color=blue&style=for-the-badge" />
+  &nbsp;&nbsp;&nbsp;
 
   <!-- FOLLOWERS -->
-  <img src="https://img.shields.io/github/followers/DHANUSHNAGARAJ123?style=social" />
+  <img src="https://img.shields.io/github/followers/DHANUSHNAGARAJ123?style=for-the-badge&color=blue" />
 
 </p>
 
 ---
 
+<!-- TECH STACK -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
 
   <!-- LANGUAGES -->
-  <h3 align="center">Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -62,7 +65,6 @@
   <br><br>
 
   <!-- MACHINE LEARNING -->
-  <h3 align="center">Machine Learning</h3>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -72,14 +74,12 @@
   <br><br>
 
   <!-- DATABASE -->
-  <h3 align="center">Database</h3>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
   <br><br>
 
   <!-- TOOLS -->
-  <h3 align="center">Tools</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
