@@ -7,18 +7,18 @@
   <img src="https://img.shields.io/github/followers/DHANUSHNAGARAJ123?style=for-the-badge" />
 </p>
 
+<!-- ONLY ONE BUTTON -->
 <p align="center">
-  <a href="#intro">
+  <a href="#intro-section">
     <img src="https://img.shields.io/badge/Click%20My%20Intro-%23007FFF?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-<a id="intro"></a>
-
-<details>
-<summary><h2>🎬 My Intro (Click to Expand)</h2></summary>
+<!-- HIDDEN INTRO (NO TITLE, NO EXTRA SUMMARY) -->
+<details id="intro-section">
+<summary></summary>
 
 ### ✨ Hey! I'm **Dhanush**  
 A passionate learner diving into **Machine Learning, Python, Data Science & Computer Vision**.  
