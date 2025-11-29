@@ -5,27 +5,42 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DHANUSHNAGARAJ123&label=Profile%20Views&color=blue&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/DHANUSHNAGARAJ123?style=for-the-badge" />
-  <a href="#intro"><img src="https://img.shields.io/badge/Click%20My%20Intro-blue?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <a href="#intro-section">
+    <img src="https://img.shields.io/badge/Click%20My%20Intro-%23007FFF?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-<a id="intro"></a>  
-## 🎬 My Intro  
-✨ Hey! I'm **Dhanush**,  
-A passionate learner diving deep into the world of **Machine Learning, AI, Python & Computer Vision**.  
-I love building **ML models, automating tasks, creating intelligent tools**, and exploring new tech every day.
+<a id="intro-section"></a>
 
-### 🔥 What I Do  
+<details>
+  <summary><h2>🎬 My Intro (Click to Expand)</h2></summary>
+
+  
+### ✨ Hey! I'm **Dhanush**  
+A passionate learner diving deep into the world of **Machine Learning, AI, Python & Computer Vision**.  
+I love building **ML models, intelligent tools, automations**, and exploring tech every day.
+
+---
+
+### 🔥 What I Do
 - 📌 Machine Learning Projects  
-- 📌 Python Development  
+- 📌 Python & Automation  
 - 📌 Computer Vision  
 - 📌 Data Preprocessing & Model Building  
-- 📌 Small Automations & Tools  
+- 📌 Small Useful Tools  
 
-### 🎯 My Goals  
-- Become an **AI/ML Engineer**  
-- Build impactful real-world ML applications  
+---
+
+### 🎯 My Goals
+- Become a skilled **AI/ML Engineer**  
+- Build powerful, real-world ML applications  
+
+</details>
 
 ---
 
@@ -33,7 +48,7 @@ I love building **ML models, automating tasks, creating intelligent tools**, and
 
 ### 📌 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
 </p>
 
 ---
@@ -41,13 +56,13 @@ I love building **ML models, automating tasks, creating intelligent tools**, and
 ### 🤖 Machine Learning & AI
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=blue" />
 </p>
 
 ---
 
-### 🛠️ Tools & Others
+### 🛠️ Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
