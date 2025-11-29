@@ -10,23 +10,22 @@
 
 ---
 
-## 🔥 About Me
-- 🌱 I’m currently learning **Machine Learning & Computer Vision**
-- 💡 I love building **AI Models, ML Projects, Automation Tools**
-- 💬 Ask me about **Python, ML, Data Science**
-- 🎯 Goal: Become a **Full-stack ML Engineer**
+<a id="intro"></a>  
+## 🎬 My Intro  
+✨ Hey! I'm **Dhanush**,  
+A passionate learner diving deep into the world of **Machine Learning, AI, Python & Computer Vision**.  
+I love building **ML models, automating tasks, creating intelligent tools**, and exploring new tech every day.
 
----
+### 🔥 What I Do  
+- 📌 Machine Learning Projects  
+- 📌 Python Development  
+- 📌 Computer Vision  
+- 📌 Data Preprocessing & Model Building  
+- 📌 Small Automations & Tools  
 
-## 🚀 Quick Access
-<p>
-  <a href="mailto:dhanushnagaraj123@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/your-link-here">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
-  </a>
-</p>
+### 🎯 My Goals  
+- Become an **AI/ML Engineer**  
+- Build impactful real-world ML applications  
 
 ---
 
@@ -52,15 +51,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
-
----
-
-<a id="intro"></a>
-
-## 🎬 My Intro
-✨ Hey! I'm **Dhanush**, a passionate learner diving deep into the world of **AI, ML, and Python development**.  
-I enjoy building smart models, automating tasks, and experimenting with new technologies.  
-My goal is to create innovative solutions using data and intelligence.
 
 ---
 
