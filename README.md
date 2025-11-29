@@ -1,50 +1,94 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/0y8FtyS.png" alt="banner" width="100%" />
+</p>
 
+<!-- TITLE + ANIMATED TEXT -->
+<h1 align="center">Hi, I'm Dhanush 👋</h1>
 
-
-<h1 align="center">👋 Hey, I'm <span style="color:#00c3ff">Dhanush</span></h1>
-<h3 align="center">AI & Data Science Student | ML Enthusiast 🚀</h3>
-
----
-
-## 🔥 About Me  
-- 🌱 Currently learning **Machine Learning, Python & DSA**  
-- 🤖 Love building AI-powered applications  
-- 🧠 Always exploring new technologies  
-- 💡 Curious, consistent, and growth-focused  
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&color=00BFFF&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;AI+Explorer;Python+Developer;Always+Learning+New+Things">
+</h2>
 
 ---
 
-## 🚀 Tech Stack
+# 🎯 Click to View My Intro  
+<details>
+<summary><b>👉 Click here to read about me</b></summary>
 
-### 🗣️ Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
 
-### 🤖 Machine Learning  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+### 👤 **Who am I?**
+I'm **Dhanush**, a passionate and focused developer diving deep into  
+**Machine Learning, Deep Learning, and Computer Vision**.
 
-### 🧮 DSA & Problem Solving  
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2E8B57?style=for-the-badge)
+### 🚀 **What I Do**
+- Build ML models  
+- Automate tasks  
+- Learn Python tools & frameworks  
+- Explore real-world AI applications  
 
-### 🗄️ Database  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 📚 **Currently Learning**
+- NumPy  
+- Pandas  
+- OpenCV  
+- TensorFlow  
+- ML Algorithms  
 
-### 🧰 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### 🎯 **Goals**
+- Become a **Full-stack ML Engineer**  
+- Build unique AI projects  
+- Master deployment & optimization  
+
+### 🤝 **What I’m Looking For**
+- Collaborations  
+- AI/ML projects  
+- Any tech exploration  
+
+</details>
 
 ---
+
+# 📌 Quick Info  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DHANUSHNAGARAJ123&label=Profile%20Views&color=blue&style=flat" alt="views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/DHANUSHNAGARAJ123?style=social" alt="followers" />
+</p>
+
 ---
 
-## ⚡ Activity Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANUSHNAGARAJ123&theme=react-dark" />
-
+# 🛠️ Tech Stack  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,matplotlib,numpy,pandas,git,github,vscode&perline=6" />
+</p>
 
 ---
 
-<h3 align="center">⭐ Always curious. Always learning. ⭐</h3>
+# 📊 GitHub Stats  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DHANUSHNAGARAJ123&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHNAGARAJ123&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# ⚡ Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANUSHNAGARAJ123&theme=tokyo-night" />
+</p>
+
+---
+
+# 📫 Contact Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/dhanushnagaraj?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nagarajdhanush88@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  </a>
+</p>
+
+---
